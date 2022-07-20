@@ -80,7 +80,7 @@ def first_page():
         [sg.Text('THIS PROGRAM CALCULATES THE DETERMINANT OF A MATRIX OF ANY ORDER.', font="arial", pad=20)],
         [sg.Text('note: orders upon 20 may be really slow to calculate.', text_color='#B9B9B9')],
         [sg.Stretch(), sg.Stretch(), sg.Text('by bononi', text_color="grey")],
-        [sg.Text("Order"), sg.InputText(size=6, border_width=2, key='-OR-'), sg.Text(text="input only integers", text_color="grey"), sg.Stretch(), sg.Text('June, 2022', text_color="grey")],
+        [sg.Text("Order"), sg.InputText(size=6, border_width=2, key='-OR-'), sg.Text(text="input only integers", text_color="grey"), sg.Stretch(), sg.Text('July, 2022', text_color="grey")],
         [sg.Text()],
         [sg.Button('submit', border_width=3)]
     ]
