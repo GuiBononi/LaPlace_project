@@ -1,7 +1,7 @@
 # LaPlace 
  A matrix determinant calculator by LaPlace's method
 
- Even though there are many other easier ways to get to the determinant of a matrix, LaPlace's method is the nicest one.
+ Even though there are many other easier ways to get to the determinant of a matrix, LaPlace's method is by far the nicest one.
 
  Since, by this method, in cofactor's formula minors are included, each minor gets a matrix of order: **initial_order - 1**. This means that it becomes a huge ramification, specially when the order of the matrix is big.
 
