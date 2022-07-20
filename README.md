@@ -9,5 +9,7 @@
 
  The interface was not supposed to be beautiful or really useful, just an addition to make this project a little more visible and out of the boring terminal. That's why not much effort was put doing this GUI.
 
+ The program without interface is another choice for the ones who want to test their computational power, which is extremely necessary for big order matrices. Just input the order you want. The matrix will automatically have that dimension and will be filled by consecutive numbers, beginning to calculate its determinant. 
+
  This project was made for learning purposes.
 
