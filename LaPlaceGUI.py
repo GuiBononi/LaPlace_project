@@ -139,7 +139,7 @@ while True:
                 [int(key[f'-{r},{c}-']) for c in range(order)]for r in range(order)
             ]
             t1 = time()
-            window2['-RESULTS-'].update(f'Determinant: {determinant(matrix)}')
+            window2['-RESULTS-'].update(f'Determinant: {determinant(matrix)}', text_color="#CFA600")
             t2 = time()
             window2['-TIME-'].update(f'Computation time: {t2-t1:.3f} s')
 
