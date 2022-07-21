@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3842a98-981c-46f7-a763-e55661d71b77" name="Changes" comment="credits">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LaPlaceGUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/LaPlaceGUI.py" afterDir="false" />
-    </list>
+    <list default="true" id="f3842a98-981c-46f7-a763-e55661d71b77" name="Changes" comment="credits" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +34,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Curso2" />
   </component>
   <component name="RunManager" selected="Python.LaPlaceGUI (1)">
     <configuration name="LaPlace" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
